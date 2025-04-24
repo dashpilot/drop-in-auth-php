@@ -12,6 +12,10 @@ A lightweight, single-file PHP authentication system using Bramus Router for rou
 - **BladeOne Templates**: Clean separation of logic and presentation
 - **Single-File Architecture**: Everything packaged in one file for easy deployment
 
+## Preview
+
+<img src="preview.png" />
+
 ## Requirements
 
 - PHP 7.4 or higher
