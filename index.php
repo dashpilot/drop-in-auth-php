@@ -482,6 +482,7 @@ class App {
     public function dashboardHandler() {
         echo $this->blade->run('dashboard', [
             'title' => 'Dashboard',
+            'isLoggedIn' => $this->auth->isLoggedIn(),
             'user' => $this->auth->getCurrentUser()
         ]);
     }
