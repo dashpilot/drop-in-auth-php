@@ -1,0 +1,4 @@
+views
+vendor
+auth_system.db
+.env
